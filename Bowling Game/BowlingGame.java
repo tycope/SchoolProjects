@@ -16,7 +16,6 @@ BowlingGame(int numOfPlayers)
       players.add(temp);
    }  
 }
-//neither of these methods have pre/post conditions as they have no parameters and return nothing. assertions not used
 void run()
 {
    for (int i =0;i<10;i++)//10 rounds
